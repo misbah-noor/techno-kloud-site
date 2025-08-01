@@ -1,6 +1,6 @@
 import React from 'react'
 import ChooseSection from '../components/ChooseSection'
-import HowWeDo from '../components/HowWeDo'
+import TempFile from '../components/TempFile'
 import Acheivements from '../components/Acheivements'
 import ContactSection from '../components/ContactSection'
 import FeaturedWork from '../components/FeatureWork'
@@ -29,7 +29,7 @@ function Home() {
       <ChooseSection />
     </section>
     <section>
-      <HowWeDo />
+      <TempFile />
       <Acheivements />
       <FeaturedWork />
       <ContactSection />
