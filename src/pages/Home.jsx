@@ -1,6 +1,6 @@
 import React from 'react'
 import ChooseSection from '../components/ChooseSection'
-import HowWeDo from '../components/Howwedo'
+import HowWeDo from '../components/HowWeDo'
 import Acheivements from '../components/Acheivements'
 import ContactSection from '../components/ContactSection'
 import FeaturedWork from '../components/FeatureWork'
